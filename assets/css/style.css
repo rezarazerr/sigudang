@@ -1,0 +1,21 @@
+nav {
+    border-bottom: #a8a8a8 solid 8px;
+}
+
+.text {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#list {
+    position: absolute;
+    z-index: 2;
+}
+
+.list{
+
+}
+
+.bg_grey {
+	background-color: #a8a8a8;
+}
